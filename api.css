@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    color: blueviolet;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    height: 500px;
+}
